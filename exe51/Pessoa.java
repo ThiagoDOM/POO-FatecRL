@@ -1,4 +1,4 @@
-package exe48;
+package exe51;
 
 public class Pessoa {
 	public int id;	

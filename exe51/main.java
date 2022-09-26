@@ -1,4 +1,4 @@
-package exe48;
+package exe51;
 
 import java.util.Scanner;
 
